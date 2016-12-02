@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AVVI</string>
+    <string name="grabar">Empezar</string>
+    <string name="avvi">AVVI</string>
+    <string name="avvi2">AVVI!</string>
+    <string name="launchname">AVVI</string>
+    <string name="asistente_controlado_por_voz_para_personas_invidentes">Asistente virtual controlado por voz para personas con discapacidad visual</string>
+    <string name="cargando_componentes_necesarios">cargando componentes necesarios...</string>
+</resources>
