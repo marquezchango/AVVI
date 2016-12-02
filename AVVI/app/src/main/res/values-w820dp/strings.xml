@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launchname">AVVI</string>
+    <string name="asistente_controlado_por_voz_para_personas_invidentes">Asistente controlado por voz para personas invidentes</string>
+    <string name="cargando_componentes_necesarios">cargando componentes necesarios...</string>
+</resources>
